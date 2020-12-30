@@ -10,4 +10,4 @@ This one train a module on 'Dataset' by passing it through different layers of N
 
 #################################
 
-For testing your Module implement 'TEST.ipynb'
+For testing your Module implement 'TEST.ipynb' by using h5 module.
