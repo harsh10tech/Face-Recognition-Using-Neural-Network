@@ -1,5 +1,4 @@
 # Face-Recognition-Using-Neural-Network
-This is a take on Face recognition tech using basic Convolutional Neural Network.
 -
 First implement 'Create_dataset.ipynb' :
 It processes the images(raw data) and crops out the faces from images. It stores those faces into folder "Dataset'.
